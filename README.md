@@ -50,3 +50,6 @@ Copy data if it’s already a DataFrame or Series.
 - Noise Reduction: These words often add noise to the analysis and do not contribute meaningful insights.
 - Improved Model Accuracy: By removing these terms, text classification or sentiment analysis models can focus on more meaningful words.
 
+# CountVectorizer
+- 
+
