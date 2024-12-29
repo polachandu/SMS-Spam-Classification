@@ -36,3 +36,17 @@ Copy data if it’s already a DataFrame or Series.
 ## Describe
 
 ![Screenshot 2024-12-28 at 5 32 50 PM](https://github.com/user-attachments/assets/496df020-c3ef-494e-9989-3d14968185fa)
+
+## plot(bins)
+
+- In Pandas, the plot method is used to visualize data in DataFrames or Series, but bins is not a direct parameter of plot. Instead, bins is commonly used in histograms to control the number of bins (intervals) for data distribution visualization.
+- bins=30: Divides the range of data into 30 equal-width intervals.
+- ![Screenshot 2024-12-28 at 6 03 45 PM](https://github.com/user-attachments/assets/2144f33d-6828-4ff1-886f-20bb35090509)
+- Fewer bins = Smoother representation; More bins = Detailed representation.
+
+
+# Why should we add custom stopwords
+- Informal Text Processing: To handle social media text, chat logs, or other casual sources.
+- Noise Reduction: These words often add noise to the analysis and do not contribute meaningful insights.
+- Improved Model Accuracy: By removing these terms, text classification or sentiment analysis models can focus on more meaningful words.
+
