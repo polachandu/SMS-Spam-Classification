@@ -22,13 +22,17 @@ Copy data if it’s already a DataFrame or Series.
 ## Common Parameters in Pandas DataFrame
 
 **pd.read_csv()**
+
 ![Screenshot 2024-12-28 at 5 26 57 PM](https://github.com/user-attachments/assets/24732f33-061b-4557-a7d7-fbb3376dad66)
 
 **df.drop()**
+
 ![Screenshot 2024-12-28 at 5 27 45 PM](https://github.com/user-attachments/assets/7ef70721-3c60-493c-8fb1-15841044f30b)
 
 **df.dropna()**
+
 ![Screenshot 2024-12-28 at 5 30 57 PM](https://github.com/user-attachments/assets/0baf20f9-e9b0-416b-8309-21f830d29958)
 
 ## Describe
+
 ![Screenshot 2024-12-28 at 5 32 50 PM](https://github.com/user-attachments/assets/496df020-c3ef-494e-9989-3d14968185fa)
