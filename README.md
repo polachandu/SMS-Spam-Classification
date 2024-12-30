@@ -51,5 +51,19 @@ Copy data if it’s already a DataFrame or Series.
 - Improved Model Accuracy: By removing these terms, text classification or sentiment analysis models can focus on more meaningful words.
 
 # CountVectorizer
-- 
+- ![Screenshot 2024-12-29 at 5 27 02 PM](https://github.com/user-attachments/assets/32420288-edc8-4f6e-aaf2-e3567be2a7dc)
+## fit()
+- ![Screenshot 2024-12-29 at 5 29 09 PM](https://github.com/user-attachments/assets/6e04357a-84f4-46dd-b4db-a750e8ed1406)
+## transform()
+- ![Screenshot 2024-12-29 at 5 30 11 PM](https://github.com/user-attachments/assets/e6aecc56-2ff5-4c9d-a09b-c3d442b0199f)
+# TfidfTransformer
+- TfidfTransformer is a part of the scikit-learn library used to convert raw word counts (from tools like CountVectorizer) into TF-IDF (Term Frequency-Inverse Document Frequency) values. It helps emphasize important words in a document while reducing the weight of common but less meaningful words.
+- ![Screenshot 2024-12-29 at 5 34 56 PM](https://github.com/user-attachments/assets/9d722199-0a47-4789-8cd2-f62aac42ebee)
+
+# Can do transform() without fit()?
+- The short answer is: No, you cannot directly call transform without first calling fit on most transformers or models in libraries like scikit-learn
+
+
+
+
 
