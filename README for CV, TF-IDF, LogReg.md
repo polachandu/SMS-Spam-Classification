@@ -64,7 +64,7 @@ Copy data if it’s already a DataFrame or Series.
 - The short answer is: No, you cannot directly call transform without first calling fit on most transformers or models in libraries like scikit-learn
 
 # Distingushing TP,TN,FP,FN
-- ![Screenshot 2025-01-04 at 11 21 32 AM](https://github.com/user-attachments/assets/5fd52fe2-1da9-4229-a611-c27d40d2d619)
+- ![Screenshot 2025-01-04 at 11 25 48 AM](https://github.com/user-attachments/assets/d75df3ab-db8e-4a6e-ac31-f56a8e4e8aa1)
 
 
 
