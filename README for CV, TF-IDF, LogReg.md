@@ -63,6 +63,10 @@ Copy data if it’s already a DataFrame or Series.
 # Can do transform() without fit()?
 - The short answer is: No, you cannot directly call transform without first calling fit on most transformers or models in libraries like scikit-learn
 
+# Distingushing TP,TN,FP,FN
+- ![Screenshot 2025-01-04 at 11 21 32 AM](https://github.com/user-attachments/assets/5fd52fe2-1da9-4229-a611-c27d40d2d619)
+
+
 
 
 
