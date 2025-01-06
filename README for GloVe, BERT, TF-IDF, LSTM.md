@@ -18,3 +18,6 @@ Tokenization is the process of splitting text into smaller meaningful units, suc
 
 ![Screenshot 2025-01-05 at 8 01 45 PM](https://github.com/user-attachments/assets/6cfe6d3e-1cfe-4fe3-bcd1-6357cae623a5)
 
+**Order of Tokenization, Stemming and CountVectorizer**
+
+
