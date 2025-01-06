@@ -12,4 +12,9 @@ Breaking down the df.groupby('target')['target'].agg('count').values()
 ![Screenshot 2025-01-03 at 6 41 25 PM](https://github.com/user-attachments/assets/db269279-7644-4274-a2fb-797ced4dad57)
 ![Screenshot 2025-01-03 at 6 41 49 PM](https://github.com/user-attachments/assets/352c2701-1612-47be-a77c-34c80087c70c)
 
+**Benefits of Tokenization**
+
+Tokenization is the process of splitting text into smaller meaningful units, such as words, sentences, or sub-words. It’s a fundamental step in Natural Language Processing (NLP), enabling text data to be converted into a format understandable by machines.
+
+![Screenshot 2025-01-05 at 8 01 45 PM](https://github.com/user-attachments/assets/6cfe6d3e-1cfe-4fe3-bcd1-6357cae623a5)
 
