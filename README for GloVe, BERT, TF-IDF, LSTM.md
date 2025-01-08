@@ -30,3 +30,12 @@ In Natural Language Processing (NLP) using TensorFlow/Keras, text_to_sequences a
 2. ![Screenshot 2025-01-07 at 8 18 56 AM](https://github.com/user-attachments/assets/d2c1c09f-5787-4c0b-a1a2-b4f120486999)
 3. Always apply tokenization → sequence conversion → padding in that order.
 
+**GloVe**
+1. ![Screenshot 2025-01-07 at 6 18 03 PM](https://github.com/user-attachments/assets/9a903bb4-215d-43bb-bdea-d1e8b2eccd61)
+2. ![Screenshot 2025-01-07 at 6 18 40 PM](https://github.com/user-attachments/assets/6a7b933f-f473-485b-bdbf-216a9dba0ff6)
+3. ![Screenshot 2025-01-07 at 6 19 05 PM](https://github.com/user-attachments/assets/9278acaa-bf01-4f7d-b589-c60d1b29f736)
+4. ![Screenshot 2025-01-07 at 6 19 54 PM](https://github.com/user-attachments/assets/0ba4fdaf-9e26-47ea-8a8f-515daa0b54cd)
+
+
+
+
