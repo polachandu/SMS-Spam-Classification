@@ -37,6 +37,12 @@ In Natural Language Processing (NLP) using TensorFlow/Keras, text_to_sequences a
 4. ![Screenshot 2025-01-07 at 6 19 05 PM](https://github.com/user-attachments/assets/9278acaa-bf01-4f7d-b589-c60d1b29f736)
 5. ![Screenshot 2025-01-07 at 6 19 54 PM](https://github.com/user-attachments/assets/0ba4fdaf-9e26-47ea-8a8f-515daa0b54cd)
 
+**accuracy score and ROC AUC score**
+1. ![Screenshot 2025-01-08 at 8 19 13 AM](https://github.com/user-attachments/assets/10aa5d5f-56f7-4d12-9750-5f39a6f85522)
+2. ![Screenshot 2025-01-08 at 8 19 41 AM](https://github.com/user-attachments/assets/75d8e94d-0a85-4dd1-987b-07aabe2fb241)
+
+
+
 
 
 
