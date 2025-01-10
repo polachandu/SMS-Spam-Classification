@@ -40,6 +40,8 @@ In Natural Language Processing (NLP) using TensorFlow/Keras, text_to_sequences a
 **accuracy score and ROC AUC score**
 1. ![Screenshot 2025-01-08 at 8 19 13 AM](https://github.com/user-attachments/assets/10aa5d5f-56f7-4d12-9750-5f39a6f85522)
 2. ![Screenshot 2025-01-08 at 8 19 41 AM](https://github.com/user-attachments/assets/75d8e94d-0a85-4dd1-987b-07aabe2fb241)
+3. ![Screenshot 2025-01-09 at 6 03 43 PM](https://github.com/user-attachments/assets/b0354d33-6824-4a87-af68-f5ab40dd0df1)
+
 
 
 
