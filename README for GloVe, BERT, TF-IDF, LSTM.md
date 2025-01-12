@@ -43,6 +43,14 @@ In Natural Language Processing (NLP) using TensorFlow/Keras, text_to_sequences a
 3. ![Screenshot 2025-01-09 at 6 03 43 PM](https://github.com/user-attachments/assets/b0354d33-6824-4a87-af68-f5ab40dd0df1)
 
 
+## LSTM
+<img width="703" alt="Screenshot 2025-01-12 at 9 37 26 AM" src="https://github.com/user-attachments/assets/0d9397a8-8bfe-44d4-880d-19a5f315a250" />
+<img width="700" alt="Screenshot 2025-01-12 at 9 39 00 AM" src="https://github.com/user-attachments/assets/765a73f9-3916-4a72-8020-d341f6fb985c" />
+<img width="697" alt="Screenshot 2025-01-12 at 9 39 30 AM" src="https://github.com/user-attachments/assets/070beefd-52b3-4765-8b16-c2f2917dd6eb" />
+
+
+
+
 
 
 
